@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=WinXpGangsterEdition
+Description=plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/WinXpGangsterEdition
+ScriptFile=/usr/share/plymouth/themes/WinXpGangsterEdition/WinXpGangsterEdition.script
+
+
